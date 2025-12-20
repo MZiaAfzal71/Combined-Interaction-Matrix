@@ -1,4 +1,4 @@
-Repeat,Fold,best_train_rmse,best_train_r2,best_train_mae,best_val_rmse,best_val_r2,best_val_mae
+repeat,fold,best_train_rmse,best_train_r2,best_train_mae,best_val_rmse,best_val_r2,best_val_mae
 1,1,0.572177434,0.923259026,0.428393377,0.686798791,0.900211553,0.514828457
 1,2,0.566735907,0.928065723,0.426192339,0.76439732,0.877354341,0.557404804
 1,3,0.527565652,0.929560095,0.390339293,0.688090736,0.870180301,0.488784346
